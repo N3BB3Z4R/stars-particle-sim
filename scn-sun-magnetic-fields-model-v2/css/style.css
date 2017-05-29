@@ -1,0 +1,19 @@
+/* Drawer */
+canvas {
+	display: block;
+}
+
+/* Tips */
+h1, h2 {
+	position: fixed;
+  bottom: 0px;
+  margin-right: auto;
+  margin-left: auto;
+	color: green;
+	font-size: 14px;
+}
+h2 {
+	top: 0px;
+	margin-left: 0px;
+	font-size: 10px;
+}
