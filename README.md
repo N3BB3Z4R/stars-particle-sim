@@ -7,4 +7,5 @@ Black Hole Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-black-hole-ma
 
 Sun 1 Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-sun-magnetic-fields-model/
 
-Sun 2 Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-sun-magnetic-fields-model-v2/
+Sun 2 Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-sun-magnetic-fields-model-v2/ (doesn't work yet)
+http://codepen.io/N3BB3Z4R/pen/eWareq
