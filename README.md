@@ -3,6 +3,8 @@ Stars and Black Holes Magnet Fields (not accurate) Simulation based on Three.js
 
 Stars Magnetic Fields Simulator made with Three.js and Simple Noise library
 
+UPDATE 05/30/17: New Black Hole creation momentum simulation https://codepen.io/N3BB3Z4R/pen/NjZRPa
+
 Black Hole Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-black-hole-magnetic-fields-model/
 
 Sun 1 Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-sun-magnetic-fields-model/
