@@ -7,6 +7,8 @@ UPDATE 05/30/17 New Black Hole creation momentum simulation https://codepen.io/N
 
 UPDATE 05/30/17 New Sun with more realistic core: https://codepen.io/N3BB3Z4R/pen/qmzaPO
 
+UPDATE 05/30/17 New Singularity Simulation: https://codepen.io/N3BB3Z4R/pen/QvXKYz
+
 Black Hole Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-black-hole-magnetic-fields-model/
 
 Sun 1 Demo: https://n3bb3z4r.github.io/stars-particle-sim/scn-sun-magnetic-fields-model/
