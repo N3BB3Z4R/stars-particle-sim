@@ -1,5 +1,5 @@
 # stars-particle-sim
-Stars and Black Holes Magnetic Fields (not accurate) Simulation based on Three.js and Simple Noise Lib.
+Stars and Black Holes Magnetic Fields (not accurate) Simulation based on Three.js and Simple Noise Lib. <br>
 Oscar Nebe Abad
 
 	UPDATE 05/30/17 
