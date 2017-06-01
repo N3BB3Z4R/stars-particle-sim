@@ -1,6 +1,6 @@
 # stars-particle-sim
-Stars and Black Holes Magnetic Fields (not accurate) Simulation based on Three.js and Simple Noise Lib. <br>
-Oscar Nebe Abad
+Stars and Black Holes Magnetic Fields (not accurate) GPU Simulation based on Three.js and Simple Noise Lib. <br>
+Oscar Nebe Abad. Optimum rendering with Nvidia CUDA.
 
 	UPDATE 05/30/17 
 
